@@ -1,0 +1,6 @@
+{
+  "appTitle": "login_screen",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
